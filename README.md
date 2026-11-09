@@ -61,3 +61,4 @@ $\color{#006400}{\textsf{✧𝙳𝚗𝚌⁠✧}}$
 
 
 
+<img width="736" height="414" alt="Image" src="https://github.com/user-attachments/assets/88ab4bac-d7bf-4ba4-a623-77a334ec6668" />
