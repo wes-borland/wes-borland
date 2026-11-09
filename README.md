@@ -2,8 +2,6 @@
      <table>
 <img width="851" height="315" alt="Image" src="https://github.com/user-attachments/assets/26777b7e-55aa-4a7c-8725-6611d367671d" />
 </p>
-     
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:107C10,100:107C10&height=2&section=header"/>
 
      
 
